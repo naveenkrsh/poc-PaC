@@ -8,7 +8,7 @@
         {
           "name": "one",
           "type": "wait",
-          "waitTime": 1
+          "waitTime": 2
         }
       ]
     }
